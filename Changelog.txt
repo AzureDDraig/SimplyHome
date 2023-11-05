@@ -1,0 +1,14 @@
+1.0.0
+Initial Commit
+
+1.0.1
+Fixed warps only working under certain circumstances
+
+Fixed cooldown
+
+1.0.2
+Bugfixes:
+Teleporting to the same coordinates across dimensions leading to suffocation
+
+1.0.3
+Bugfix: Unable to craft with normal recipe
