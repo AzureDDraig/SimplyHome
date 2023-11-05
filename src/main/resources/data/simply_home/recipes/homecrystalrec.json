@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:stone"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "tag": "minecraft:logs"
+    }
+  ],
+  "result": {
+    "item": "simply_home:home_crystal",
+    "count": 1
+  }
+}
